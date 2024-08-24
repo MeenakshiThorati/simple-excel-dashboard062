@@ -1,5 +1,8 @@
 # simple-excel-dashboard062
+![Screenshot 2024-08-24 222521](https://github.com/user-attachments/assets/425d879b-e62b-413b-9cdd-600af4fd8908)
+
 This dashboard provides an overview of car sales data, focusing on various metrics related to car brands, prices, fuel usage, seller types, and seating availability. 
+
 Here’s an analysis for each chart:
 
 1.In Each Year Each Brand Selling Price (Top Left Chart):
